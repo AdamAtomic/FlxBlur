@@ -9,7 +9,7 @@ package
 		public function FlxBlur()
 		{
 			super(320,240,MenuState,2);
-			showLogo = false;
+			//showLogo = false;
 		}
 	}
 }
