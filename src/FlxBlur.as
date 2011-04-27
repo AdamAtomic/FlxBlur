@@ -8,8 +8,8 @@ package
 	{
 		public function FlxBlur()
 		{
-			super(320,240,MenuState,2);
-			//showLogo = false;
+			super(640,480,PlayState,1,50,50);
+			forceDebugger = true;
 		}
 	}
 }
